@@ -1,0 +1,36 @@
+body{
+ background: rgb(232, 232, 232);
+}
+
+.container {
+  width: 87%;
+  margin-bottom: 100px;
+}
+.container-fluid{
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.jumbotron{
+ 
+  /* background-image: url('/gambar/background.png'); */
+  text-align: center;
+  background-color: azure;
+  
+}
+
+span.btn {
+  margin: -10px;
+}
+
+.caption h3{
+  font-size: 22px;
+}
+
+.footer{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 15px;
+  padding-left: 80px;
+  padding-right: 80px;
+  color: gray;
+}

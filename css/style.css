@@ -1,0 +1,78 @@
+body {
+    background: aliceblue;
+}
+img {
+    width: 100px;
+}
+.box {
+    display: flex;
+    background: white;
+    height: 200px;
+    width: auto;
+    padding: 25px;
+    margin-bottom: 50px;
+    
+}
+.landing1 {
+
+    float: left;
+    padding-right: 15px;
+}
+.landing2 {
+
+    float: left;
+    padding-right: 150px;
+}
+.landing3 table {
+    width: 400px;
+
+}
+.box1 {
+    background: white;
+    height: 455px;
+    width: auto;
+
+}
+.link {
+    background: blue;
+    width: 75px;
+    height: 35px;
+    outline: auto;
+    outline-color: blue;
+    color: white;
+
+}
+.link:hover {
+    color: red;
+}
+.link1 {
+    background: none;
+    width: 75px;
+    height: 35px;
+    outline: auto;
+    outline-color: green;
+    color: green;
+
+}
+
+.link1:hover {
+    color: black;
+}
+form input {
+    width: 100%;
+}
+form label {
+    margin-top: 5px;
+}
+.link2 {
+    background: green;
+    margin-top: 10px;
+    width: 100%;
+    height: 35px;
+    outline: auto;
+    outline-color: green;
+    color: white;
+}
+.link2:hover {
+    color: black;
+}
